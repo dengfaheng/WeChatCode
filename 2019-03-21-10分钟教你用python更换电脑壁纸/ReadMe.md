@@ -1,0 +1,1 @@
+https://github.com/Ga-PaYin/MySuckWorks/blob/master/AutoChangePaper.py
