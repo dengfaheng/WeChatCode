@@ -1,1 +1,12 @@
-http://www.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95/tsp/ 
+获取请关注公众号【程序猿声】，在后台回复【算例下载】即可下载
+
+
+
+TabuSearch测试TSP算例。
+
+算例来源 TSPLIB。
+
+为适应测试，算例经过小小修改。
+
+总共11个instance，将Tabu.cpp文件编译成exe后，将Tabu.exe文件放入和算例相同目录。运行run.bat即可。
+
